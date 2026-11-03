@@ -1,0 +1,33 @@
+# Data manipulation
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Statistical analysis
+scipy
+statsmodels
+
+# Machine Learning
+scikit-learn
+imbalanced-learn
+
+# Explainable AI
+shap
+
+# Application
+streamlit
+
+# Data validation and configuration
+pydantic
+python-dotenv
+
+# Model persistence
+joblib
+
+# Development and testing
+jupyter
+ipykernel
+pytest

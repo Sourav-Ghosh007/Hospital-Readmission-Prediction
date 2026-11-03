@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+hosp_venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/raw/*
+data/processed/*
+
+# Model artifacts
+models/*
+
+# IDE settings
+.vscode/
+
+# Test cache
+.pytest_cache/
+
+# Logs
+*.log
